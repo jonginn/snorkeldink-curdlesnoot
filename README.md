@@ -1,4 +1,8 @@
-# norrisbot
+# ~~norrisbot~~ benedictbot
+
+Norrisbot, modified by Jon.
+
+Original readme follows:
 
 [![Build Status](https://travis-ci.org/lmammino/norrisbot.svg?branch=v1.0.0)](https://travis-ci.org/lmammino/norrisbot) [![npm version](https://badge.fury.io/js/norrisbot.svg)](http://badge.fury.io/js/norrisbot)
 
@@ -6,11 +10,7 @@
 
 The NorrisBot is a Slack bot that kicks asses, roundhouse-kicks to be precise... It's super-powered with Chuck Norris jockes and it aims to make your Slack channel even more "slacker" and enjoyable.
 
-![Chuck Norris face](icon.jpg)
-
 NorrisBot is loaded with guns and jokes about Chuck Norris and it will tell a random joke every time that someone says “Chuck Norris” in the chatroom.
-
-![The NorrisBot in action](the-norris-bot-in-action.png)
 
 
 ## Installation
